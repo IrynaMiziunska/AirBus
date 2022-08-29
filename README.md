@@ -16,6 +16,5 @@ AirBus
 
 1. The project was based on [Object Detection Model with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/).
 
-2. As an object detection model [Mask RCNN](https://github.com/akTwelve/Mask_RCNN.git) was used. This is an implementation of [Mask R-CNN]
-(https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each  
+2. As an object detection model [Mask RCNN](https://github.com/akTwelve/Mask_RCNN.git) was used. This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each  
 instance of an object in the image.
