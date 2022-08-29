@@ -7,17 +7,13 @@ This project is for Kaggle competiton [Airbus Ship Detection Challenge](https://
 
 ## File strcture
 
-AirBus  
-
-1. PY -> Train Mask_RCNN.ipynb (Create dataset, config and train model)                      
-2. assets    
-
-
+```bash
 AirBus                         
-    ├─PY                           1、Create dataset, config and train model
-    │  └─Train Mask_RCNN.ipynb
+    ├─PY
+    │  └─Train Mask_RCNN.ipynb # Create dataset, config and train model
     |
-    └─assets                     
+    └─assets
+```
 
 ## Resources
 
