@@ -17,6 +17,6 @@ AirBus
 
 ## Resources
 
-The project was based on [Object Detection Model with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
+The project was based on [Object Detection Model with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/).
 
-As an object detection mode [Mask RCNN](https://github.com/akTwelve/Mask_RCNN.git) was used: 
+As an object detection mode [Mask RCNN](https://github.com/akTwelve/Mask_RCNN.git) was used. 
